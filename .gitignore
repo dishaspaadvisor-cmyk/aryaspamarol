@@ -42,3 +42,5 @@ next-env.d.ts
 
 # Exclude large videos
 public/video/*.mp4
+
+public/video/*.mp4
